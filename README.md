@@ -17,3 +17,12 @@ Actividades:
   2) Desarrollar la solución de eTesting utilizando el lenguaje de programación Racket
   3) Realizar video con presentacin y demostración de solución desarrollada
   
+
+
+1. Descripción de solución
+
+
+2. 
+
+
+3. Plataforma (propuesta tecnológica seleccionada)
