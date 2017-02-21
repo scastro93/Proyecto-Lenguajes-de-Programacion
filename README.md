@@ -41,4 +41,8 @@ El profesor podrá tener permisos de administrador. Podrá hacer lo siguiente:
 ## Referencias:
 https://docs.racket-lang.org/web-server/
 
-3. Plataforma (propuesta tecnológica seleccionada)
+## 2. Documento
+Actualmente se puede parsear el html desde el racket e inicializar un server desde localhost.
+
+## 3. Plataforma (propuesta tecnológica seleccionada)
+Se desarrollaara una web app utilizando node, racket y firebase.
