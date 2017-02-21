@@ -17,12 +17,14 @@ Actividades:
   2) Desarrollar la solución de eTesting utilizando el lenguaje de programación Racket
   3) Realizar video con presentacin y demostración de solución desarrollada
   
-
-
 1. Descripción de solución
 
+Se creará una plataforma web utilizando una libreria de Racket llamada Web Servlets
 
-2. 
+2. Documento (secciones desarrolladas del documento a presentar)
 
+
+Referencias:
+https://docs.racket-lang.org/web-server/
 
 3. Plataforma (propuesta tecnológica seleccionada)
